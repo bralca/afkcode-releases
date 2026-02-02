@@ -8,7 +8,7 @@ AI-powered feature planning and development tool.
 |----------|----------|
 | macOS (Apple Silicon) | [Afkode-1.4.0-arm64.dmg](https://github.com/bralca/afkcode-releases/releases/download/v1.4.0/Afkode-1.4.0-arm64.dmg) |
 | macOS (Intel) | [Afkode-1.4.0.dmg](https://github.com/bralca/afkcode-releases/releases/download/v1.4.0/Afkode-1.4.0.dmg) |
-| Windows | [Afkode-Setup-1.4.0.exe](https://github.com/bralca/afkcode-releases/releases/download/v1.4.0/Afkode-Setup-1.4.0.exe) |
+| Windows | [Afkode.Setup.1.4.0.exe](https://github.com/bralca/afkcode-releases/releases/download/v1.4.0/Afkode.Setup.1.4.0.exe) |
 | Linux | [Afkode-1.4.0.AppImage](https://github.com/bralca/afkcode-releases/releases/download/v1.4.0/Afkode-1.4.0.AppImage) |
 
 ## Installation
