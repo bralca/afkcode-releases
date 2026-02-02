@@ -2,14 +2,14 @@
 
 AI-powered feature planning and development tool.
 
-## Latest Release: 1.8.0
+## Latest Release: 1.9.0
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Afkode-1.8.0-arm64.dmg](https://github.com/bralca/afkcode-releases/releases/download/v1.8.0/Afkode-1.8.0-arm64.dmg) |
-| macOS (Intel) | [Afkode-1.8.0.dmg](https://github.com/bralca/afkcode-releases/releases/download/v1.8.0/Afkode-1.8.0.dmg) |
-| Windows | [Afkode.Setup.1.8.0.exe](https://github.com/bralca/afkcode-releases/releases/download/v1.8.0/Afkode.Setup.1.8.0.exe) |
-| Linux | [Afkode-1.8.0.AppImage](https://github.com/bralca/afkcode-releases/releases/download/v1.8.0/Afkode-1.8.0.AppImage) |
+| macOS (Apple Silicon) | [Afkode-1.9.0-arm64.dmg](https://github.com/bralca/afkcode-releases/releases/download/v1.9.0/Afkode-1.9.0-arm64.dmg) |
+| macOS (Intel) | [Afkode-1.9.0.dmg](https://github.com/bralca/afkcode-releases/releases/download/v1.9.0/Afkode-1.9.0.dmg) |
+| Windows | [Afkode.Setup.1.9.0.exe](https://github.com/bralca/afkcode-releases/releases/download/v1.9.0/Afkode.Setup.1.9.0.exe) |
+| Linux | [Afkode-1.9.0.AppImage](https://github.com/bralca/afkcode-releases/releases/download/v1.9.0/Afkode-1.9.0.AppImage) |
 
 ## Installation
 
