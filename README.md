@@ -2,12 +2,12 @@
 
 AI-powered feature planning and development tool.
 
-## Latest Release: 6.3.0
+## Latest Release: 6.4.0
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Afkode-6.3.0-arm64.dmg](https://github.com/bralca/afkcode-releases/releases/download/v6.3.0/Afkode-6.3.0-arm64.dmg) |
-| macOS (Intel) | [Afkode-6.3.0.dmg](https://github.com/bralca/afkcode-releases/releases/download/v6.3.0/Afkode-6.3.0.dmg) |
+| macOS (Apple Silicon) | [Afkode-6.4.0-arm64.dmg](https://github.com/bralca/afkcode-releases/releases/download/v6.4.0/Afkode-6.4.0-arm64.dmg) |
+| macOS (Intel) | [Afkode-6.4.0.dmg](https://github.com/bralca/afkcode-releases/releases/download/v6.4.0/Afkode-6.4.0.dmg) |
 
 ## Installation
 
